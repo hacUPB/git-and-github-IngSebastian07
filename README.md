@@ -1,9 +1,59 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
+## **Descripción:**
+El objetivo de este repositorio es aprender a usar los programas git y github que permiten crear repositorios locales y en la nube. Este proyecto hace parte del curso de programación de los estudiantes de segundo semestren en Ingeniería Aeronáutica de la Universidad Pontificia Bolivariana.
+
+Asímismo, este respaldo contiene las diferentes actividades que se han venido trabajando a los largo de las clases, para dar cuenta de lo aprendido. Esto también puede servir como guía para un aprendiz, pues contiene el paso a paso del proceso y los comandos más útiles en Git.
+
+## Pasos necesarios para clonar y ejecutar el proyecto:
+
+Clonar: copiar un repositorio remoto (de GitHub, por ejemplo) a tu computadora  
+Esto crea una carpeta con todos los archivos y el historial del proyecto  
+
+1. Ir a la página del repositorio en GitHub  
+    - Hacer clic en el botón verde "Code"  
+    - Copiar la URL (HTTPS o SSH)
+
+ 2. Abrir la terminal y moverse a la carpeta donde quieres clonar el proyecto
+cd /ruta/donde/quieres/guardar
+
+ 3. Clonar el repositorio con Git
+git clone <URL-del-repositorio>
+
+ 4. Entrar a la carpeta del proyecto
+cd nombre-del-proyecto
+
+ 5. Revisar el contenido del proyecto
+ls
+
+ 6. (Opcional) Verificar si hay un archivo README.md con instrucciones
+
+ 7. Si el proyecto es en Python:
+    - Se recomienda usar un entorno virtual
+
+python3 -m venv env            – crear entorno virtual
+source env/bin/activate        – activar entorno (en Linux/macOS)
+env\Scripts\activate           – activar entorno (en Windows)
+
+ 8. Instalar las dependencias si hay un archivo requirements.txt
+pip install -r requirements.txt
+
+ 9. Ejecutar el proyecto (ejemplo con archivo principal)
+python main.py
+
+ Con estos pasos ya puedes clonar y correr un proyecto en tu máquina.
+
+ # Tabla de Contenido
+
+- [Uso de la Consola](docs/uso_consola.md)
+- [Creación de un Repositorio Local](docs/repositorio_local.md)
+- [Creación y Sincronización con Repositorio Remoto](docs/repositorio_remoto.md)
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
----
-# Evaluación
+**Nombre del estudiante:**  Sebastián Pulgarín Castrillón
+**Id:** 000577197  
+
+## Evaluación
 
 ### **Descripción de la Actividad:**
 

@@ -22,7 +22,7 @@
   * Directorio = carpeta
   * Archivo = documento
 * Permisos básicos: necesitas permiso de lectura/escritura para crear, borrar o entrar en carpetas.
-
+---
 ![En esta imagen se observan los comandos nombrados anteriormente de una manera más organizada](<Comandos consola.png>)
 
 
